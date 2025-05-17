@@ -33,9 +33,9 @@ This is a demonstration application developed with Kotlin Multiplatform and Comp
 
 ## Screens 
 
-- Login [![screen_login.png](images/screen_login.png)]
-- List [![screen_login.png](images/screen_list.png)]
-- Detail [![screen_login.png](images/screen_detail.png)]
+- Login <img src="images/screen_login.png" alt="screen_login" width="300">
+- List  <img src="images/screen_list.png" alt="screen_list" width="300">
+- Detail <img src="images/screen_detail.png" alt="screen_detail" width="300">
 
 ## Technologies Used
 
