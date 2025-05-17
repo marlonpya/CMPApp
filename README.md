@@ -31,6 +31,12 @@ This is a demonstration application developed with Kotlin Multiplatform and Comp
 - **Internationalization**: Localized text resources
 - **Unit Testing**: Includes tests for key components like the password field
 
+## Screens 
+
+- Login [![screen_login.png](images/screen_login.png)]
+- List [![screen_login.png](images/screen_list.png)]
+- Detail [![screen_login.png](images/screen_detail.png)]
+
 ## Technologies Used
 
 - Kotlin Multiplatform
