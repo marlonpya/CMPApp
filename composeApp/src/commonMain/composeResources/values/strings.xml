@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CMO Course</string>
+    <string name="more_options">More options</string>
+    <string name="title">Some title</string>
+    <string name="clone">Clone</string>
+    <string name="delete">Delete</string>
+    <string name="success">Success</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="Login">Login</string>
+    <string name="invalid_user">Invalid user</string>
+    <string name="invalid_password">Invalid password</string>
+    <string name="show_grid_view">Show screen grid</string>
+    <string name="show_list_view">Show screen list</string>
+    <string name="item_cloned">%1$s cloned</string>
+    <string name="item_deleted">%1$s deleted</string>
+    <string name="back">back</string>
+
+</resources>

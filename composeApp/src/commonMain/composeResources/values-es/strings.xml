@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Curso CMP</string>
+    <string name="more_options">Más opciones</string>
+    <string name="title">Alguno título</string>
+    <string name="clone">Clonar</string>
+    <string name="delete">Eliminar</string>
+    <string name="success">Éxito</string>
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="Login">Iniciar sesión</string>
+    <string name="invalid_user">Usuario inválido</string>
+    <string name="invalid_password">Contraseña inválida</string>
+    <string name="show_grid_view">Mostrar vista grid</string>
+    <string name="show_list_view">Mostrar vista lista</string>
+    <string name="item_cloned">%1$s clonado</string>
+    <string name="item_deleted">%1$s borrado</string>
+    <string name="back">back</string>
+</resources>
